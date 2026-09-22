@@ -28,12 +28,17 @@ This project shows the Creative Phase of the modernization framework.  The main 
 
 ## Prototype Enhancement: Biometric Baseline & Travel Stress Integration
 
+### Objective
 By amalgamating autonomic health data, the demonstration layer transforms from a responsive, in-play warning system to a pre-emptive, 48-hour prognostic instrument.
  
-Pre-match Stratagem Changes: Prior to the team’s arrival to the stadium the on-court coach can review the Recovery Prognostication. If a point guard’s full extension shot decreases by more than 20% in a game after a coast-to-coast flight, the ASS advises a shortened-on court play time for that day’s game.
 
-Targeted Intermediations: The staff is notified by alerts for suggestions on exact physical therapy or adapted training sessions for players eliciting decreased recovery indicators, thereby precluding fatigue from intensifying into an in-game injury incident.
- 
-This improvement lessens organizational tension by adjusting analytics from an invasive "live " interruption to a cooperative tool utilized during regular pre-game preparation processes and methods.
+### Pre-match Stratagem Changes 
+Prior to the team’s arrival to the stadium the on-court coach can review the Recovery Prognostication. If a point guard’s full extension shot decreases by more than 20% in a game after a coast-to-coast flight, the ASS advises a shortened-on court play time for that day’s game.
+
+### Targeted Intermediations: 
+The staff is notified by alerts for suggestions on exact physical therapy or adapted training sessions for players eliciting decreased recovery indicators, thereby precluding fatigue from intensifying into an in-game injury incident.
+
+### End Goal 
+This improvement lessens organizational tension by adjusting analytics from an invasive "live" interruption to a cooperative tool utilized during regular pre-game preparation processes and methods.
 
 
