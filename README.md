@@ -5,7 +5,7 @@ Project Overview:  NBA Player workload and injury predictor
 # Project Overview
   This project summarizes a theoretical analytics framework intended to observe instantaneous biometric muscular exhaustion and biomechanical duress for professional basketball players (e.g., point guards). (Jianjun et al., 2024) Rather than relying on archaic, stern metrics like True Shooting Percentage (TS%), Effective Field Goal Percentage (eFG%), turnovers (TOV), Free Throw (FT)Assists (AST), Point (PTS)); this tool manufactures high-rate wearable sensor datum, stationary archival health data, and performance metrics into an Active Stress Score (ASS). (Hoop Mentality, 2026) This score preemptively tags surges in potential risk injury or fatigue indicators. (García et al., 2013)
 
-## Decision Mkaing Problem
+## Decision Making Problem
   NBA baseball senior executives and staff confront continuous pressure amid increasing a player's reasonable accessibility and handling cataclysmic injury risks. (Chen et al., 2026)
  Conventional raw metrics neglect to factor in for singular biomechanical efficacy, high-stress, or complete exhaustion. (Lassiter, 2026) This information cavity brings about potential player injuries (e.g., shoulder or ankle muscle strains), which may result in staff benching players and loss of player’s on-court time due to due to rest, rehabilitation and recovery. (Chen et al., 2026)
  
