@@ -60,6 +60,18 @@ Lassiter., L. (2026, April 18). Wearables, biometric governance, and athlete dat
 
 ### Prototype Enhancement
 # Redefining the definition of a metric 
+This prototype improvement amalgamates an extra, acute data input to fine tune the prognostic accuracy of the Athletic Stress Score (ASS):  incessant biometric telemetry from smart devices (e.g., Oura) and other wearable fitness trackers (tracks sleep, exercise, heart rate, breathing). (Lassiter, 2026)
 
+Explicitly, models now intake:
+*Heart Rate Variability (HRV): Monitored and recording amid sleep cycles to gauge the central health resting rate. (Garcia et al., 2013)
+* Diurnal Disturbance Metrics: reconciled with the team's season travel schedules to enumerate jet lag affects amidst many time-zone changes. (Garcia et al., 2013)
 
-# Adding an additional data source
+### Impact on Presentation and Decision-Making
+By amalgamating autonomic health data, the demonstration layer transforms from a responsive, in-play warning system to a pre-emptive, 48-hour prognostic instrument. (Kinexon Team, 2026)
+
+*Pre-match Stratagem Changes: * Prior to the team’s arrival at the stadium the on-court coach can review the Recovery Prognostication. If a point guard’s full extension shot decreases by more than 20% in a game after a coast-to-coast flight, the ASS advises a shortened-on court play time for that day’s game. (Kinexon Team, 2026)
+
+*Targeted Intermediations: The staff is notified by alerts for suggestions on exact physical therapy or adapted training sessions for players eliciting decreased recovery indicators, thereby precluding fatigue from intensifying into an in-game injury incident. (Chen et al., 2026)
+
+This improvement lessens organizational tension by adjusting analytics from an invasive "live " interruption to a cooperative tool utilized during regular pre-game preparation processes and methods. (DeMartini, 2026)
+
