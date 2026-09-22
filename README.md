@@ -26,6 +26,5 @@ The findings are dispensed through a basic, color-coded dashboard designed for n
 This project shows the Creative Phase of the modernization framework.  The main goal at this phase is to distinctly theorize an analytical construct to decipher it. It concentrates on bringing into line the data competencies with user requirements (front office and staff) prior to dedicating systems architecture, software development and technical infrastructure. (Alamar, 2024) This is to ensure the analytics division comes up with the solution to the organization’s problem. (DeMartini, 2026)
 
 git checkout -b prototype
-# Edit README.md to add the section below
 git add README.md
 git commit -m "Prototype Enhancement"
